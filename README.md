@@ -1,4 +1,4 @@
 # GameTest
 
 cd to project file (GameTest)
-	run gradlew desktop:run
+<br /> run gradlew desktop:run
